@@ -5,8 +5,8 @@ A Website to Learn about HTML with inline CSS
 
 Live Website URL: https://qehs-websites.github.io/LearningHTML.github.io/
 
-See https://github.com/QEHS-Websites/Introductory-HTML
-- for specific details
+See https://github.com/QEHS-Websites/Introductory-HTML 
+for specific details
 
 Progressions
 - Project Folder Structure
