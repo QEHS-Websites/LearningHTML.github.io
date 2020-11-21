@@ -8,9 +8,15 @@ Live Website URL: https://qehs-websites.github.io/LearningHTML.github.io/
 Progressions
 - Project Folder Structure
 - Annotating ReadMe.md Files with GitHub Markdown (starting in Other End-unit projects)
-- Text Data, <a href="">Click Here</a>
+- Text Data, <a href="">Click Here when URL Present</a>
+- Build index.html with footer
+- Save as childTemplate.html
+- Modify index.html to match website planning to childPages
+- TBA
 
 ---
+
+
 ## Text Data
 
 ### Title for the Project
