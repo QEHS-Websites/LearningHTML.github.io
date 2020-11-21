@@ -23,10 +23,11 @@ Progressions
 - Do the Experiment Pages
   - Headings and Paragraphs
   - Sub and Superscript
-  - Images
-  - DIVs
+  - Images already coded in Responsive (width for window size, max-width for column size)
+  - DIVs to view columns for layout issues
 - Start to combine in index.html
-
+- Look at the other folders to hyperlink and see if there are any interesting ideas
+  - If no ideas, then hyperlink in aside space
 - TBA
 
 ---
@@ -50,7 +51,7 @@ This website is used to demonstrate how to build a webpage, and then how to buil
 
 ---
 
-## Child Page Structure
+# To Include: Child Page Structure
 
 Current Completed Pages
 - MetaData
