@@ -17,9 +17,9 @@ Progressions
 - Modify index.html to match website planning to childPages, <a href="">Click Here to skip below, when URL Entered</a>
   - Note: if full list of items is not possible, just to a place holder with TBA
   - Title
-  - Header & Footer with Responsive inline Font-size in vw units
+  - Header & Footer with Responsive inline font-size with vw units
   - Create NAV, SECTION, and ASIDE Columns (Note: Aside is out of order so items can be read)
-- Reminder: Copy the STYLE to the childFolder / TEmplate.html
+- Reminder: Copy the STYLE to the childFolder / Template.html
 - Do the Experiment Pages
   - Headings and Paragraphs
   - Sub and Superscript
