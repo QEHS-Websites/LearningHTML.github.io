@@ -20,14 +20,14 @@ Progressions
   - Header & Footer with Responsive inline font-size with vw units
   - Create NAV, SECTION, and ASIDE Columns (Note: Aside is out of order so items can be read)
 - Reminder: Copy the STYLE to the childFolder / Template.html
-- Do the Experiment Pages
+- Do the Experiment Pages, notice how responsive design is coded for text data
   - Headings and Paragraphs
   - Sub and Superscript
-  - Images already coded in Responsive (width for window size, max-width for column size)
   - DIVs to view columns for layout issues
+  - Images already coded in Responsive (width for window size, max-width for column size)
 - Start to combine in index.html
-- Look at the other folders to hyperlink and see if there are any interesting ideas
-  - If no ideas, then hyperlink in aside space
+- See information in other folders within Child Pages (linked in index.html)
+- See Flexbox Lesson (including the 2 & 3 column examples) to layout semantic tags as originally intended
 - TBA
 
 ---
@@ -52,6 +52,7 @@ This website is used to demonstrate how to build a webpage, and then how to buil
 ---
 
 # To Include: Child Page Structure
+- Amend this as needed
 
 Current Completed Pages
 - MetaData
