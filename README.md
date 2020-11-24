@@ -9,7 +9,7 @@ See https://github.com/QEHS-Websites/Introductory-HTML
 for specific details
 
 Progressions
-- Project Folder Structure
+- Project Folder Structure (See above)
 - Annotating ReadMe.md Files with GitHub Markdown (starting in Other End-unit projects)
 - Text Data, <a href="https://github.com/QEHS-Websites/LearningHTML.github.io#text-data">Click Here to jump below</a>
 - Build index.html with footer
@@ -51,28 +51,7 @@ This website is used to demonstrate how to build a webpage, and then how to buil
 
 ---
 
-# To Include: Child Page Structure
-- Amend this as needed
-
-Current Completed Pages
-- MetaData
-- childTemplate (includes Footer)
-- Headings and Paragraph Tags
-- Sub and Superscript
-- Image Lesson
-- DIVs
-
-After DIVs, explore Flexbox
-
-Additional Pages and Lessons
-- 1Example
-- 2Example
-- Hyperlinks & Images-Intro
-- Image Ideas.txt
-- Lists/UnorderedOrdered.html
-
 # To Include
 
-See https://github.com/QEHS-Websites/Introductory-HTML for Ideas to Transfer here
 
 ---
