@@ -8,27 +8,41 @@ Live Website URL: https://qehs-websites.github.io/LearningHTML.github.io/
 See https://github.com/QEHS-Websites/Introductory-HTML
 for specific details
 
-Progressions
-- Project Folder Structure (See above)
+---
+
+Fill Out the Following Google Form helping Mr. Mercer to Grade your projects and offer suggestions: <a href="https://forms.gle/4DrGh5QYFctnMEBu9">Click here for Google Form due 20201127</a>
+
+Grading ... (remember minimum expectation is inline CSS, additional option inline JavaScript)
+- Minimum Expectations of Each Page: https://github.com/QEHS-Websites/Introductory-HTML#html-with-inline-css-boilerplate-checklist-and-template-creation
+- Full Summary Expectation: https://github.com/QEHS-Websites/Introductory-HTML/blob/main/HTML_Summary.txt
+
+Mr. Mercer's Teaching Exemplar: https://qehs-websites.github.io/LearningHTML.github.io/
+- Also see: https://github.com/QEHS-Websites/LearningHTML.github.io
+- Must have all pages (your version and your creativity) in Organized List
+
+Progressions (See GitHub for Full Explanation)
+- Choose between locally hosted and public facing repository (.github.io)
+- If Public-facing, activate GitHub Pages
+- Create Repository and Project Folder with Basic Website Folder-Organization and Files
 - Annotating ReadMe.md Files with GitHub Markdown (starting in Other End-unit projects)
 - Text Data, <a href="https://github.com/QEHS-Websites/LearningHTML.github.io#text-data">Click Here to jump below</a>
-- Build index.html with footer
-- Save as childTemplate.html
-- Modify index.html to match website planning to childPages, <a href="">Click Here to skip below, when URL Entered</a>
-  - Note: if full list of items is not possible, just to a place holder with TBA
-  - Title
-  - Header & Footer with Responsive inline font-size with vw units
-  - Create NAV, SECTION, and ASIDE Columns (Note: Aside is out of order so items can be read)
-- Reminder: Copy the STYLE to the childFolder / Template.html
-- Do the Experiment Pages, notice how responsive design is coded for text data
-  - Headings and Paragraphs
-  - Sub and Superscript
-  - DIVs to view columns for layout issues
-  - Images already coded in Responsive (width for window size, max-width for column size)
-- Start to combine in index.html
-- See information in other folders within Child Pages (linked in index.html)
-- See Flexbox Lesson (including the 2 & 3 column examples) to layout semantic tags as originally intended
-- Review the `..` symbol to create links from the indexFLexbox.html to other pages or documents
+
+Using https://github.com/QEHS-Websites/Introductory-HTML
+- Create index.html & boilerplate
+- Create Template.html with Footer Quote
+- Modify index.html to match website page structure, responsive design, and Flexbox for Sematic HTML Tags
+- Copy and rename childPages Template.html as needed for experimental pages
+- Create Hyperlinks from index.html and test links to experimental pages
+- Link any additional pages you have created in childPages
+
+Pages you should have:
+- Index page (with Responsive Design, Hyperlinks, and Flexbox)
+- All Experiment Pages listed in the index.html as an ordered list
+
+Resources
+- https://github.com/QEHS-Websites/Introductory-HTML
+- https://github.com/QEHS-Websites/LearningHTML.github.io
+- https://qehs-websites.github.io/LearningHTML.github.io/
 
 ---
 
