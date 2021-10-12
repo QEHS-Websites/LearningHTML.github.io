@@ -71,4 +71,18 @@ Imbedding Videos: https://www.w3schools.com/css/css_rwd_videos.asp
 
 ---
 
-Rubric Ideas
+# Rubric Schemes
+
+#### Folder & Files
+[] Project Folder: index.html, multiple folders with ReadMe.md files, template.html
+
+#### End User
+[] Evidence of coded navigation
+[] Titles and optional Images
+[] Hyperlinks work, Text formatting looks good, Lists and other organization
+[] Mandatory Hyperlinks: Image Lesson (2 images sized differently), Index Page with Flexbox
+[] Optional: Experimental Pages
+
+#### Atom
+[] Meta Data: Google Indexing Information
+[] Using Browser based formatting (H, semantic code)
