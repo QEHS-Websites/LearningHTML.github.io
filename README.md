@@ -8,6 +8,8 @@ Live Website URL: https://qehs-websites.github.io/LearningHTML.github.io/
 See https://github.com/QEHS-Websites/Introductory-HTML
 for specific details
 
+Grading Schemes: <a href="https://github.com/QEHS-Websites/LearningHTML.github.io#rubric-schemes">Click Here</a>
+
 ---
 
 Fill Out the Following Google Form helping Mr. Mercer to Grade your projects and offer suggestions: <a href="https://forms.gle/4DrGh5QYFctnMEBu9">Click here for Google Form due 20201127</a>
