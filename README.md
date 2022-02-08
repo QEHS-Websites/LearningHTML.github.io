@@ -88,3 +88,14 @@ Imbedding Videos: https://www.w3schools.com/css/css_rwd_videos.asp
 #### Atom
 - [] Meta Data: Google Indexing Information
 - [] Using Browser based formatting (H, semantic code)
+
+---
+
+Progressions
+- boilerplate: HTML, title, Hello World in body
+- HEAD
+- BODY: Semantic Tags, Google Sematic Tags and show image of what a template looks like
+- FOOTER & Quotation, plus speical symbols
+- Template.html & semantic tags
+
+---
