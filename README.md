@@ -95,7 +95,11 @@ Progressions
 - boilerplate: HTML, title, Hello World in body
 - HEAD
 - BODY: Semantic Tags, Google Sematic Tags and show image of what a template looks like
-- FOOTER & Quotation, plus speical symbols
-- Template.html & semantic tags
+- FOOTER & Quotation, plus special symbols
+- Template.html, retitling TAB as template, header titled template, delete description and keywords from meta data
+- Index.html: create lessons and hyperlinks, use rest of HTML Tags
+- Index.html: creating different lessons
+  - After H's explored, go back and adjust index.html
+  - Overwrite with vw units and demonstrate how these will change in a viewport
 
 ---
