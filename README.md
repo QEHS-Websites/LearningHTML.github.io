@@ -12,6 +12,14 @@ Grading Schemes: <a href="https://github.com/QEHS-Websites/LearningHTML.github.i
 
 ---
 
+**NOTE**
+- Mr. Mercer challenged himself to write websites for a year, not using other tools
+- These lessons are the result of that challenge
+
+See Radio ONE, CBC, March 2018 for an interview.
+
+---
+
 Fill Out the Following Google Form helping Mr. Mercer to Grade your projects and offer suggestions: <a href="https://forms.gle/4DrGh5QYFctnMEBu9">Click here for Google Form due 20201127</a>
 
 Grading ... (remember minimum expectation is inline CSS, additional option inline JavaScript)
