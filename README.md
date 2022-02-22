@@ -100,14 +100,33 @@ Imbedding Videos: https://www.w3schools.com/css/css_rwd_videos.asp
 ---
 
 Progressions
-- boilerplate: HTML, title, Hello World in body
-- HEAD
-- BODY: Semantic Tags, Google Sematic Tags and show image of what a template looks like
-- FOOTER & Quotation, plus special symbols
-- Template.html, retitling TAB as template, header titled template, delete description and keywords from meta data
-- Index.html: create lessons and hyperlinks, use rest of HTML Tags
-- Index.html: creating different lessons
-  - After H's explored, go back and adjust index.html
-  - Overwrite with vw units and demonstrate how these will change in a viewport
+- Create Repository with Public-Facing Website (Private is possible, see Mr. Mercer)
+- Reminder: github.io must be in name
+- Open in Atom
+- Add index.html
+- Ensure Update in GitHub Desktop
+- Visually check GitHub
+- Enable GitHub Pages: Settings / Pages / Change None to Main / Save
+- Open the Publicly Facing Website to ensure Hello World is visually there
+- Open the index.html file in ATOM.io
+  - boilerplate: HTML, title, Hello World in body
+  - View on Publicly Facing Webpage
+  - HEAD
+  - BODY: Semantic Tags, Google Sematic Tags and show image of what a template looks like
+  - FOOTER & Quotation, plus special symbols
+- Create Folders and File Structure in Atom
+  - childPages / childTemplate.html
+    - retitling TAB as template, header titled template, delete description and keywords from meta data
+  - Images / ReadMe.txt
+  - Videos / ReadMe.txt
+  - Media / ReadMe.txt
+  - Misc / ReadMe.txt
+-
 
 ---
+
+Completing the Different Experimental Pages to understand HTML & inline CSS with Flexbox
+- Index.html: create lessons and hyperlinks, use rest of HTML Tags
+- Index.html: creating different lessons
+- After H's explored, go back and adjust index.html
+- Overwrite with vw units and demonstrate how these will change in a viewport
