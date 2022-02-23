@@ -130,3 +130,16 @@ Completing the Different Experimental Pages to understand HTML & inline CSS with
 - Index.html: creating different lessons
 - After H's explored, go back and adjust index.html
 - Overwrite with vw units and demonstrate how these will change in a viewport
+
+---
+
+Understanding What the Semantic Tags are...
+- Purpose: take how a blind person might use their imagination to "see" your website "knowing" where the Sematic Tags are located ...
+- Purpose: take your content and place it in your Semantic Tags
+- Examples:
+  - http://tutorials.jenkov.com/images/html5/semantic-elements.png
+  - https://www.w3schools.com/html/img_sem_elements.gif
+  - See https://github.com/Dev-Outreach/Introduction-Static-HTML, and the index.html
+  - https://assets.hongkiat.com/uploads/html-5-semantics/document-outline-example.jpg
+  - https://www.hongkiat.com/blog/html-5-semantics/
+  - https://csharpcorner-mindcrackerinc.netdna-ssl.com/UploadFile/b5be7f/working-with-semantic-elements-in-html5-with-layout-examples/Images/html5Structure.PNG
