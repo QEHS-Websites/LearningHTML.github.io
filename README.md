@@ -1,8 +1,6 @@
 # LearningHTML.github.io
 A Website to Learn about HTML with inline CSS
 
-**CAUTION** UNDERCONSTRUCTION
-
 Live Website URL: https://qehs-websites.github.io/LearningHTML.github.io/
 
 See https://github.com/QEHS-Websites/Introductory-HTML
@@ -19,8 +17,6 @@ Grading Schemes: <a href="https://github.com/QEHS-Websites/LearningHTML.github.i
 See Radio ONE, CBC, March 2018 for an interview.
 
 ---
-
-Fill Out the Following Google Form helping Mr. Mercer to Grade your projects and offer suggestions: <a href="https://forms.gle/4DrGh5QYFctnMEBu9">Click here for Google Form due 20201127</a>
 
 Grading ... (remember minimum expectation is inline CSS, additional option inline JavaScript)
 - Minimum Expectations of Each Page: https://github.com/QEHS-Websites/Introductory-HTML#html-with-inline-css-boilerplate-checklist-and-template-creation
@@ -142,3 +138,5 @@ Understanding What the Semantic Tags are...
 - https://assets.hongkiat.com/uploads/html-5-semantics/document-outline-example.jpg
 - And this website has an image that is downloadable, scroll to "Example: A Semantic Outline": https://www.hongkiat.com/blog/html-5-semantics/
 - And see Mr. Mercer about this exemplar website if you do not know how to execute this locally: https://github.com/Dev-Outreach/Introduction-Static-HTML
+
+---
