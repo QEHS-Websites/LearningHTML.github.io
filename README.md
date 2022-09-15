@@ -140,3 +140,7 @@ Understanding What the Semantic Tags are...
 - And see Mr. Mercer about this exemplar website if you do not know how to execute this locally: https://github.com/Dev-Outreach/Introduction-Static-HTML
 
 ---
+
+Try completing a To Do List, demonstrating how to do a To Do List
+
+---
