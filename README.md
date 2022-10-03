@@ -144,3 +144,9 @@ Understanding What the Semantic Tags are...
 Try completing a To Do List, demonstrating how to do a To Do List
 
 ---
+
+Laying out the DIVS Page
+- Introduce HEAD <style> to overwrite inline style
+- Demonstrate how different HTML-Tags can be styled on the whole webapge
+
+---
