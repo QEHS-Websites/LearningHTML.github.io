@@ -146,7 +146,21 @@ Try completing a To Do List, demonstrating how to do a To Do List
 ---
 
 Laying out the DIVS Page
-- Introduce HEAD <style> to overwrite inline style
+- Introduce HEAD-style to include wild card attribute being rewritten by inline style
 - Demonstrate how different HTML-Tags can be styled on the whole webapge
+
+---
+
+Flexbox
+- Extend HEAD-style wild card to style.css (verbalized, not taught until grade 11
+- describe how .menu, .main, & .aside can be written into 
+
+- .flexbox { **Copied code from each class** } //change one line instead of each copied-pasted line
+- .menu { width:25% }
+- .main { width:50% }
+
+- Nav = menu + flexbox
+- Main = main + flexbox
+- Aside = menu + flexbox
 
 ---
