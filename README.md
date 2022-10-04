@@ -1,6 +1,14 @@
 # LearningHTML.github.io
 A Website to Learn about HTML with inline CSS
 
+---
+
+UNDER CONSTRUCTION: website to be rewritten with notes in HTML Body 
+- Student Grade increases if HTML of each page changes
+- Student grade increases when summary changes to each students voice
+
+---
+
 Live Website URL: https://qehs-websites.github.io/LearningHTML.github.io/
 
 See https://github.com/QEHS-Websites/Introductory-HTML
