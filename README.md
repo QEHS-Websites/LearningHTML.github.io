@@ -18,6 +18,7 @@ UNDER CONSTRUCTION: website to be rewritten with notes in HTML Body
 - Image Lesson: focusing on display-window changing with percent, issue of memory with website resources ("on which server are these saved")
 - DIVs: using a HTML-DIV vs. style border in semantic tags as a wild card (to introduce flexbox)
 - Flexbox: minimum CSS, issues with spacing, viewing borders or where DIVs are, creating HTML style references, creating classes, combining classes, leading to style.css as minimum then rewriting with page level styles, then inline styles (i.e. wild card will get the VW units to be rewritten in-line
+- 
 - Additional Lessons Examples, not taught but code explored
 - 
 - Student Grade increases if HTML of each page changes
