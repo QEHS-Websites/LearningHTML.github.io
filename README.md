@@ -4,6 +4,22 @@ A Website to Learn about HTML with inline CSS
 ---
 
 UNDER CONSTRUCTION: website to be rewritten with notes in HTML Body 
+- NOTE: Questions on each lesson enable students to develop own understanding of lesson and how to 
+- SITE Map: review site map first as a prep lesson, must know how website will be expereinced before building
+- ChildPage: HEAD, BODY Semantic Tags (images, definitions of section and article through concept sets)
+- MetaData: defaults & what to change, way to add an image needs to be explored
+- Footer Page: Website-level Footer (blockquote, citing, date, hyperlink & forced naviation (with alternatives), strong, em, cascading)
+- Index.HTML NAV: ul or ol with inline attributes applied to all below
+- Sub & Superscript with paragraph: simplare p-tag in aside with default attributes, "where do you set these", only controlled locally
+- H1 to H6 compared to paragraph tag: differnet sizes in Aside
+- H1 to H6 in different sematic tags
+- H1 in Cascading
+- H1 to H6, p, & a in vw units with research to styles like centering text
+- Image Lesson: focusing on display-window changing with percent, issue of memory with website resources ("on which server are these saved")
+- DIVs: using a HTML-DIV vs. style border in semantic tags as a wild card (to introduce flexbox)
+- Flexbox: minimum CSS, issues with spacing, viewing borders or where DIVs are, creating HTML style references, creating classes, combining classes, leading to style.css as minimum then rewriting with page level styles, then inline styles (i.e. wild card will get the VW units to be rewritten in-line
+- Additional Lessons Examples, not taught but code explored
+- 
 - Student Grade increases if HTML of each page changes
 - Student grade increases when summary changes to each students voice
 
