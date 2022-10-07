@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
+
+    <!-- Used by the Keyboard -->
     <meta charset="utf-8">
+
     <title>Image Lessons</title>
 
     <meta name="author" content="Mark Mercer">
@@ -10,45 +13,45 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Content gives value for name or http-equiv attribute, text entry for typeof string or array string -->
 
-    <noscript>Running JavaScript is not necessary in this HTML page ... FYI: you Feature to execute scripts is turned off</noscript>
-    
+    <!-- meta http-equiv="default-style" content=""--> <!-- content matches css link exactly-->
+
+    <!-- Other meta attributes to be aware of -->
+    <!-- meta http-equiv="refresh" content="30"-->
+    <!-- Content forces a Internet Request to refresh webpage every "time value in seconds" -->
+    <!-- Use this when refreshes are needed -->
+    <!-- meta http-equiv="content-type" content="text/html; charset=UTF-8" -->
+    <!-- Already specified in the charset above-->
+
+    <noscript>Running JavaScript is not necessary in the HTML Page ... FYI: your Feature to execute scripts is turned off</noscript>
 
   </head>
 
   <body>
 
+    <p>
+      Two URLs to use in my lesson
+      1. https://deadline.com/wp-content/uploads/2022/09/GettyImages-1170383972-e1662140354328.jpg?crop=1072px%2C105px%2C4588px%2C2573px&resize=681%2C383
+      2. https://deadline.com/wp-content/uploads/2022/09/GettyImages-1170383972-e1662140354328.jpg
+      3. Introduces reading URLs for domain, server, and instructions to the server for reformating and changing image.
+    </p>
+    
     <header><h1>Image Lessons</h1></header>
 
-    <aside>
-      <header>Aside Note</header>
-      <a>The difference between the following two URLs has an interesting story</a>
-      <ul>
-        <li> Getty Images is providing an image to deadline.com
-        <li> The server is providing a modified version of the image
-        <li> The URLs show domain, folders, and files with instructions on how the server should modify the file
-        <li> Accessed 20220928
-      </ul>
-      <p>URL #1: https://deadline.com/wp-content/uploads/2022/09/GettyImages-1170383972-e1662140354328.jpg</p>
-      <p>URL #2: https://deadline.com/wp-content/uploads/2022/09/GettyImages-1170383972-e1662140354328.jpg?crop=1072px%2C105px%2C4588px%2C2573px&resize=681%2C383</p>
-    </aside>
     <section>
-      <h3>Steps in building an Image</h3>
+      <h3>Steps in Creating an Image</h3>
           <ul>
-            <li> Pick an Image (carefull of the file extension in the URL)
-            <li> Record URL, cite it, comment for date access, and record origonal dimesions
-            <li> Use blockquote and comment as appropriate
-            <li> Use img-tag with atributes src, alt, title, and style with width-height
+            <li> Pick an Image
+            <li> Record URL and Dimensions, Cite,
+              and comment for date accessed & Original Dimension
+            <li> Use img tag with src, alt, title, and style attribute
           </ul>
+
     </section>
 
     <section>
       <h3>Example Image</h3>
-      <br><!-- codes one space, like pressing enter -->
-      <!-- <img> is self closing -->
-      <blockquote cite="https://previews.123rf.com/images/trimbaldi/trimbaldi1309/trimbaldi130900007/23089796-wow-in-pop-art.jpg">
-        <!-- Date Accessed 20220211-->
-      </blockquote>
-      <img src="https://previews.123rf.com/images/trimbaldi/trimbaldi1309/trimbaldi130900007/23089796-wow-in-pop-art.jpg" alt="..\Images\23089796-wow-in-pop-art.jpg" title="WOW! Mr. Mercer" style="max-width:25%;height:auto;">
+      <br>
+      <img src="https://previews.123rf.com/images/trimbaldi/trimbaldi1309/trimbaldi130900007/23089796-wow-in-pop-art.jpg" alt="Images\23089796-wow-in-pop-art.jpg" title="WOW! Mr. Mercer" style="max-width:25%;height:auto;">
       <!-- Will size to a max with of Width 1300, height 606, but not bigger -->
       <!-- Play with percentages-->
       <br>
@@ -58,12 +61,9 @@
     <section>
       <h3>Example Image</h3>
       <br>
-      <blockquote cite="https://previews.123rf.com/images/trimbaldi/trimbaldi1309/trimbaldi130900007/23089796-wow-in-pop-art.jpg">
-        <!-- Date Accessed 20220211-->
-      </blockquote>
-      <img src="https://previews.123rf.com/images/trimbaldi/trimbaldi1309/trimbaldi130900007/23089796-wow-in-pop-art.jpg" alt="../Images\23089796-wow-in-pop-art.jpg" title="WOW! Mr. Mercer" style="width:100%;height:auto;">
+      <img src="https://previews.123rf.com/images/trimbaldi/trimbaldi1309/trimbaldi130900007/23089796-wow-in-pop-art.jpg" alt="Images\23089796-wow-in-pop-art.jpg" title="WOW! Mr. Mercer" style="width:100%;height:auto;">
       <!-- Width 1300, height 606 but will size bigger if window size is bigger-->
-      <!-- Play with percentages, the percentage is the percentage of the ViewPort, not the actual image-->
+      <!-- Play with percentages-->
       <br>
       <br>
     </section>
