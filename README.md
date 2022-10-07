@@ -2,6 +2,8 @@
 A Website to Learn about HTML with inline CSS
 
 UNDER CONSTRUCTION: website to be rewritten with notes in HTML Body 
+- Done: Index Page
+- 
 - NOTE: Questions on each lesson enable students to develop own understanding of lesson and how to 
 - SITE Map: review site map first as a prep lesson, must know how website will be expereinced before building
 - ChildPage: HEAD, BODY Semantic Tags (images, definitions of section and article through concept sets)
