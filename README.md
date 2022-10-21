@@ -189,3 +189,17 @@ Flexbox
 - Aside = menu + flexbox
 
 ---
+
+List Making Review
+
+Creating a Check List, GitHub Markdown
+- [ ] this is an example checkbox
+- [x] this is a checked box
+- <del> [x] this is a crossed out item that looks odd </del>
+- [x] <del> this is a crossed out item that looks better </del>
+
+# To Do List
+- [x] <del> Create a To Do List </del>
+- [ ] Add more items from the paper
+
+---
