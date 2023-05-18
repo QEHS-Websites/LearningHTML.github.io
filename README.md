@@ -5,13 +5,13 @@ UNDER CONSTRUCTION: website to be rewritten with notes in HTML Body
 - Done: Index Page
 - 
 - NOTE: Questions on each lesson enable students to develop own understanding of lesson and how to 
-- SITE Map: review site map first as a prep lesson, must know how website will be expereinced before building
+- SITE Map: review site map first as a prep lesson, must know how website will be experienced before building
 - ChildPage: HEAD, BODY Semantic Tags (images, definitions of section and article through concept sets)
 - MetaData: defaults & what to change, way to add an image needs to be explored
-- Footer Page: Website-level Footer (blockquote, citing, date, hyperlink & forced naviation (with alternatives), strong, em, cascading)
+- Footer Page: Website-level Footer (blockquote, citing, date, hyperlink & forced navigation (with alternatives), strong, em, cascading)
 - Index.HTML NAV: ul or ol with inline attributes applied to all below
-- Sub & Superscript with paragraph: simplare p-tag in aside with default attributes, "where do you set these", only controlled locally
-- H1 to H6 compared to paragraph tag: differnet sizes in Aside
+- Sub & Superscript with paragraph: simple p-tag in aside with default attributes, "where do you set these", only controlled locally
+- H1 to H6 compared to paragraph tag: different sizes in Aside
 - H1 to H6 in different sematic tags
 - H1 in Cascading
 - H1 to H6, p, & a in vw units with research to styles like centering text
