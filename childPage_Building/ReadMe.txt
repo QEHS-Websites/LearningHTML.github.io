@@ -4,3 +4,8 @@ Copy and Paste
 Create Meta Data
 Create Footer
 Create Body with Sematic Tags
+Create Image Page
+  - Copy HEAD, make appropriate changes
+  - Copy Footer with quote
+  - Get an image or copy mine from /Images/
+  - Copy my body, demonstrate how the attributes work
