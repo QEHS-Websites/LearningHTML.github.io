@@ -24,3 +24,6 @@ Create Example Text with VW units
 - H1 p, and a only
 
 Create Flexbox Example from Text with VW units
+- see "with HTML" example of CSS in HEAD, matching to Semantic Tags
+- see classes
+- Note: inline over writes HEAD-STYLE, which overwrites .css link
