@@ -18,4 +18,9 @@ Create Image Page
 Create Text with VW
 - explore H1 in all sematic tags and sub tags
 - explore no vw units
+- new webpage with VW units experiment
 
+Create Example Text with VW units
+- H1 p, and a only
+
+Create Flexbox Example from Text with VW units
