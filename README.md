@@ -49,7 +49,7 @@ CS10 Lessons
 ---
 
 # Example Document Map for Learning HTML Website
-- [x] Home Page
+- [x] Home Page | Spalsh Page (Mr. Mercer prefers minimalist GIF Background on this page)
 - [ ] TextExperimental.html
 - [ ] ViewPortON.html
 - [ ] MetaData.html
