@@ -37,17 +37,6 @@ CS10 Lessons
 
 ---
 
-- [ ] 
-- [ ] Set a Due Date and Submit
-- [ ] Create New Learning HTML Webiste from Sandbox
-- [ ] 
-- [ ] Summary of All HTML: https://github.com/QEHS-Websites/Introductory-HTML
-- [ ] Include this in New Exemplar
-- [ ] Introduce DOMs: Javascript for writing HTML
-- [ ] 
-
----
-
 # Research to Do preparing for Website Assignment
 - HTML Research: https://www.w3schools.com/html/
 - CSS Research: https://www.w3schools.com/css/
