@@ -37,9 +37,6 @@ CS10 Lessons
 
 ---
 
-
-- [ ] Introduce W3 Schools and Googling for learning more advanced techniques
-      - Note: learning from the Internet means you have a basic knoweledge
 - [ ] 
 - [ ] Set a Due Date and Submit
 - [ ] Create New Learning HTML Webiste from Sandbox
@@ -56,9 +53,13 @@ CS10 Lessons
 - CSS Research: https://www.w3schools.com/css/
 - ADVANCED, JavaScript Research: https://www.w3schools.com/js/js_htmldom.asp
 
+### Website Lessons have taught you how to read W3 Schools Website to explore more HTML & CSS Ideas on your own
+
+### Website Lessons have provided you the tools to explore JavaScript DOM
+
 ---
 
-# Example Document Map
+# Example Document Map for Learning HTML Website
 - [x] Home Page
 - [ ] TextExperimental.html
 - [ ] ViewPortON.html
