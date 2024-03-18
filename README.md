@@ -3,13 +3,7 @@ Introductory HTML, CS10 Lessons
 
 # WEBSITE UNDER CONSTRUCTION
 
-To Do List
-- [ ] Group Lessons Folder separate from completed website folders
-- [ ] HTML Summary .txt DOC, download HTML-tag demonstration
-- [ ] Purpose of DOWNLOAD-Tag, Market Place
-- [ ] TBA
-- [ ] Streamline Index File for HEADER, NAV, GIF
-- [ ] TBA
+Teacher Only Hyperlink: 
 
 #Teaching To Do List
 - [x] index.html, 20240212
@@ -78,3 +72,11 @@ Folder Names grouping website resources
 - [ ] TBA
 
 ---
+
+# To Do List for Mr. Mercer Only (What I need to complete here
+- [ ] Group Lessons Folder separate from completed website folders
+- [ ] HTML Summary .txt DOC, download HTML-tag demonstration
+- [ ] Purpose of DOWNLOAD-Tag, Market Place
+- [ ] TBA
+- [ ] Streamline Index File for HEADER, NAV, GIF
+- [ ] TBA
