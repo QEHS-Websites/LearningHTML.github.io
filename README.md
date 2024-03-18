@@ -40,7 +40,7 @@ To Do List
 - [x] Create all possible webpages of website
 - [x] Change all HEAD Information in all sub-pages to ensure basic browser experience
 - [x] Test links from index.html to sub pages, and back
-- [x] Note: Folder (Pathway) structure complete
+- [x] Folder (Pathway) structure complete: childPages, Images, Misc
 - [x] Finish Design Experience in the Browser
       - Mix of ```target="blank"``` and using browser navigation buttons
 - [x] Change all BODY Information in all Child Pages
@@ -59,12 +59,18 @@ To Do List
 ---
 
 # Example Document Map for Learning HTML Website
-- [x] Home Page | Spalsh Page (Mr. Mercer prefers minimalist GIF Background on this page)
+
+Child Pages FILE.html Names
+- [x] Home Page | Splash Page (Mr. Mercer prefers minimalist GIF Background on this page)
 - [ ] TextExperimental.html
 - [ ] ViewPortON.html
 - [ ] MetaData.html
 - [ ] childTemplate.html
 - [ ] Images.html
+
+Folder Names grouping website resources
+- Purpose: find resources easily
+- Examples: Images, Audio, GIFs, Movies, Media, Forms, Data, Misc
 
 ---
 
