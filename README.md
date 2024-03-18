@@ -1,7 +1,17 @@
-# Sandbox-Learning-HTML-P1-20240206.github.io
-CS10 Lessons
+# Complete Website to Learn Writing Webpages
+Introductory HTML, CS10 Lessons
 
-#To Do List
+# WEBSITE UNDER CONSTRUCTION
+
+To Do List
+- [ ] Group Lessons Folder separate from completed website folders
+- [ ] HTML Summary .txt DOC, download HTML-tag demonstration
+- [ ] Purpose of DOWNLOAD-Tag, Market Place
+- [ ] TBA
+- [ ] Streamline Index File for HEADER, NAV, GIF
+- [ ] TBA
+
+#Teaching To Do List
 - [x] index.html, 20240212
 - [x] Boilerplate, 20240212
 - [x] Semantic Body Tags, Introduction, 20240214
