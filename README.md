@@ -3,7 +3,7 @@ Introductory HTML, CS10 Lessons
 
 # WEBSITE UNDER CONSTRUCTION
 
-*Teacher Only Hyperlink* : 
+*Teacher Only Hyperlink* : <a href="https://github.com/QEHS-Websites/LearningHTML.github.io?tab=readme-ov-file#to-do-list-for-mr-mercer-only-what-i-need-to-complete-here">Click Here</a>
 
 # Teaching To Do List
 - [x] index.html, 20240212
