@@ -71,6 +71,19 @@ Folder Names grouping website resources
 # To Include
 - [ ] TBA
 
+Grading Steps for Student Feedback
+- [ ] Repository Submitted as version control
+- [ ] GitHub Pages Activated and functioning, index.html spelt correctly
+- [ ] Folders Created with ReadMe.txt or ReadMe.md files included for notes, etc.
+- [ ] README.md: To Do List Started, Spaces for all Webpage Text, especially developer.html page
+- [ ] Images Folder: music player screenshots placeholder image, other images (i.e. developer.html page ideas
+- [ ] childPages folder & childPage.html: NAV & FOOTER Sections Complete
+- [ ] childPages & childPage.html, TBA Sections Scaffolded with data: Title, Meta Data, JavaScript Section, & Header Section 
+- [ ] childPages & childPage.html, Sections Scaffolded with possibilities: MAIN, Aside Space, Section, Article, & Webpage Footer (if needed)
+- [ ] copied childPage.html, renamed to titles of DOCUMENT Map
+- [ ] index.html: NAV not necessary here, CSS Done, Link into Website Done, Hosted URL Submitted
+- [ ] TBA
+
 ---
 
 # To Do List for Mr. Mercer Only (What I need to complete here
