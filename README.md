@@ -3,9 +3,9 @@ Introductory HTML, CS10 Lessons
 
 # WEBSITE UNDER CONSTRUCTION
 
-Teacher Only Hyperlink: 
+**Teacher Only Hyperlink** : 
 
-#Teaching To Do List
+# Teaching To Do List
 - [x] index.html, 20240212
 - [x] Boilerplate, 20240212
 - [x] Semantic Body Tags, Introduction, 20240214
