@@ -3,7 +3,7 @@ Introductory HTML, CS10 Lessons
 
 # WEBSITE UNDER CONSTRUCTION
 
-**Teacher Only Hyperlink** : 
+*Teacher Only Hyperlink* : 
 
 # Teaching To Do List
 - [x] index.html, 20240212
