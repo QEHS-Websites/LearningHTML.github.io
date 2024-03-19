@@ -82,11 +82,12 @@ Grading Steps for Student Feedback
 - [ ] childPages & childPage.html, Sections Scaffolded with possibilities: MAIN, Aside Space, Section, Article, & Webpage Footer (if needed)
 - [ ] copied childPage.html, renamed to titles of DOCUMENT Map
 - [ ] index.html: NAV not necessary here, CSS Done, Link into Website Done, Hosted URL Submitted
+- [ ] Text, Images, Design and Feel of Child Pages
 - [ ] TBA
 
 ---
 
-# To Do List for Mr. Mercer Only (What I need to complete here
+# To Do List for Mr. Mercer Only (What I need to complete here)
 - [ ] Group Lessons Folder separate from completed website folders
 - [ ] HTML Summary .txt DOC, download HTML-tag demonstration
 - [ ] Purpose of DOWNLOAD-Tag, Market Place
