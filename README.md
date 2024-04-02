@@ -77,12 +77,24 @@ Grading Steps for Student Feedback
 - [ ] Folders Created with ReadMe.txt or ReadMe.md files included for notes, etc.
 - [ ] README.md: To Do List Started, Spaces for all Webpage Text, especially developer.html page
 - [ ] Images Folder: music player screenshots placeholder image, other images (i.e. developer.html page ideas
-- [ ] childPages folder & childPage.html: NAV & FOOTER Sections Complete
-- [ ] childPages & childPage.html, TBA Sections Scaffolded with data: Title, Meta Data, JavaScript Section, & Header Section 
-- [ ] childPages & childPage.html, Sections Scaffolded with possibilities: MAIN, Aside Space, Section, Article, & Webpage Footer (if needed)
-- [ ] copied childPage.html, renamed to titles of DOCUMENT Map
-- [ ] index.html: NAV not necessary here, CSS Done, Link into Website Done, Hosted URL Submitted
-- [ ] Text, Images, Design and Feel of Child Pages
+- [ ] childPages folder & childPage.html (choose VW units ON or OFF)
+  - NAV: Links on all pages working, repeating DOC Map
+  - HEADER Section Complete
+  - FOOTER Sections Complete (Blockquote Reference, Link, HTML Formatting)
+  - TBA Sections Scaffolded with data: Title, Meta Data, JavaScript Section, & Header Section
+  - Sections Scaffolded with possibilities: MAIN, Aside Space, Section, Article, & Webpage Footer (if needed)
+  - copied childPage.html, renamed to titles of DOCUMENT Map
+  - Titles of Subpages changed: Developer, Features
+  - (OPTIONAL) Titles: My Music Is, Personalization Available
+  - Meta Data, variables entered correctly
+- [ ] Index: spelt as index.html
+  - NAV not necessary here, CSS Done, Link into Website Done, Hosted URL Submitted
+  - Information information and Spell Checked (alternatively in ReadMe.md for 50%
+  - Images Included or clear placeholder
+  - Click Into Website (Entrance into Website NAV)
+- [ ] Sub Pages
+  - Developer: text, images (place holder ok for 50%)
+  - Features: text, images (place holder ok for 50%)
 - [ ] TBA
 
 ---
