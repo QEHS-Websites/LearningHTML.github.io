@@ -1,4 +1,4 @@
-# Complete Website to Learn Writing Webpages
+# DELETE THIS      Complete Website to Learn Writing Webpages
 Introductory HTML, CS10 Lessons
 
 # WEBSITE UNDER CONSTRUCTION
